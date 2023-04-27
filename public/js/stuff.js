@@ -191,7 +191,7 @@ class Stuff{
         if(quantity>233){alert("error no es permitido cantidades superiores a 233..."); return}
                     
 
-        id = parseInt(document.getElementById('id_').value) -1;
+        id = parseInt(document.getElementById('id_').value);
      
         let obj = {
                    id:             id,
