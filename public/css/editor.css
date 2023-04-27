@@ -1,0 +1,44 @@
+#x-editor{
+    position: absolute;
+    left: 92%;
+    top: 50px;
+    cursor: pointer;
+}
+.c-editor{
+    position: absolute;
+    top:0;
+    left: 0;
+    width:  100%;
+    height: 100%;
+    background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+    z-index: 15;
+}
+
+.editor{
+    padding: 35px;
+    margin-top: 10%;
+    margin-left: 35%;
+    width: 30%;
+    height: 50%;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.editor label{
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.editor input{
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.editor button{
+    width: 90%;
+    margin-top: 60px;
+}

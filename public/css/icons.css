@@ -1,0 +1,78 @@
+.icon-new{
+    mask: url(../icons/new.svg);
+   -webkit-mask: url(../icons/new.svg);
+}
+
+.icon-delete{
+    mask: url(../icons/trash.svg);
+   -webkit-mask: url(../icons/trash.svg);
+}
+
+.icon-curva{
+    mask: url(../icons/curva.svg);
+   -webkit-mask: url(../icons/curva.svg);
+}
+
+.icon-used{
+    mask: url(../icons/used.svg);
+   -webkit-mask: url(../icons/used.svg);
+}
+
+.icon-broken{
+    mask: url(../icons/broken.svg);
+   -webkit-mask: url(../icons/broken.svg);
+}
+
+.icon-search{
+    mask: url(../icons/lupa.svg);
+   -webkit-mask: url(../icons/lupa.svg);
+}
+
+.icon-close{
+    mask: url(../icons/fi-close.svg);
+   -webkit-mask: url(../icons/fi-close.svg);
+}
+
+.icon{  
+    display: 	  inline-block;
+    border:  1px solid red;
+}
+
+.i_white{         /*color 1*/
+     background:     white;    
+     mask-size:        cover;
+    -webkit-mask-size: cover;
+}
+
+.i_black{        /*color 1*/
+    background:     black;    
+    mask-size:        cover;
+   -webkit-mask-size: cover;
+}
+
+.s_20{
+    width:  20px;
+    height: 20px;
+}
+
+.s_25{
+    width:  25px;
+    height: 25px;
+}
+
+.s_30{
+    width:  30px;
+    height: 30px;
+}
+
+.s_40{
+    width:  40px;
+    height: 40px;
+}
+
+.s_50{
+    width:  50px;
+    height: 50px;
+}
+
+

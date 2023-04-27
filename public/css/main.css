@@ -1,0 +1,16 @@
+body{
+    margin:                       0;
+    padding:                      0;
+    overscroll-behavior:       none;  
+    overscroll-behavior-y:  contain;
+    overflow:                hidden;    
+    background-color:       white;
+    scroll-behavior:         smooth;
+}
+
+html,
+.fullscreen{
+
+  scroll-behavior: smooth;
+
+}
